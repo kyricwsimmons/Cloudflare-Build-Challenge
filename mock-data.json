@@ -1,0 +1,62 @@
+[
+  {
+    "source": "Support Ticket #1234",
+    "content": "The dashboard is extremely slow when loading analytics. Takes 30+ seconds. This is frustrating for our team.",
+    "user_name": "MatthewPrince"
+  },
+  {
+    "source": "Discord",
+    "content": "Just deployed my first Worker and it was SO easy! The docs are really clear. Love this platform!",
+    "user_name": "MichelleZatlyn"
+  },
+  {
+    "source": "GitHub Issue #456",
+    "content": "Workers AI model selection is confusing. Which model should I use for sentiment analysis? Documentation doesn't explain use cases.",
+    "user_name": "ThomasSeifert"
+  },
+  {
+    "source": "Twitter/X",
+    "content": "Your billing is broken. Been trying to upgrade for 2 days. Support hasn't responded.",
+    "user_name": "DouglasKramer"
+  },
+  {
+    "source": "Support Ticket #1235",
+    "content": "D1 database query performance is excellent! Much faster than our previous solution.",
+    "user_name": "ScottSandell"
+  },
+  {
+    "source": "Community Forum",
+    "content": "Error messages when deploying are cryptic. What does 'binding not found' actually mean?",
+    "user_name": "ClodeflareIsKewl"
+  },
+  {
+    "source": "Email",
+    "content": "The Workers dashboard UI is cluttered. Hard to find where to add bindings. Spent 20 mins searching.",
+    "user_name": "Product Manager Jane"
+  },
+  {
+    "source": "Discord",
+    "content": "R2 storage is a game changer for our app. Saved us so much on AWS costs!",
+    "user_name": "CloudConvert"
+  },
+  {
+    "source": "Support Ticket #1236",
+    "content": "Documentation for D1 migrations is missing. How do I handle schema changes in production?",
+    "user_name": "KeepingThePipesClean"
+  },
+  {
+    "source": "GitHub Issue #789",
+    "content": "Workers cold start time increased after recent deploy. Seeing 500ms+ latency now.",
+    "user_name": "performance_pete"
+  },
+  {
+    "source": "Twitter/X",
+    "content": "Cloudflare Pages + Workers is the perfect combo. Deployed my full-stack app in 10 minutes!",
+    "user_name": "@indie_maker"
+  },
+  {
+    "source": "Community Forum",
+    "content": "KV storage limits are too restrictive for our use case. Need more flexibility on value sizes.",
+    "user_name": "scaling_startup"
+  }
+]
