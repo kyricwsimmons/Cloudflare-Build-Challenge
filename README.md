@@ -1,2 +1,1 @@
-# Cloudflare-Build-Challenge
-Experimenting with Cloudflare Workers, Workers AI, and D1 Database in order to better understand their capabilities.
+For this prototype, I used Cloudflare Workers as the backbone because it allowed for rapid deployment and easy orchestration of multiple services. I chose Workers AI (specifically Llama 3) to handle the heavy lifting of sentiment analysis, as it effectively turned the "noisy" raw feedback into structured data points. To store this data for future PM reviews, I utilized D1 Database for its SQL capabilities and seamless binding to the Worker environment.
